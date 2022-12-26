@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=42564F&height=300&section=header&text=HoYoung%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=300&section=header&text=HoYoung%20Lee&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
