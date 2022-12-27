@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=HoYoung's%20Github&fontSize=90&customColorList=)
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30"/>About Me</div>
-<p>주니어 개발자를 꿈꾸는 이호영 입니다</p><hr>
+<p>주니어 개발자를 꿈꾸는 이호영 입니다</p>
 
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
-![Java](https://img.shields.io/badge/java-1324440180936946338.svg?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java11.0.15-1324440180936946338.svg?style=flat&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/jsp-%2300f.svg?style=flat&logo=jsp&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-%2300f.svg?style=flat&logo=MyBatis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
