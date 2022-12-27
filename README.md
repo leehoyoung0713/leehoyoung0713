@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=HoYoung%20Lee&fontSize=90&customColorList=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=HoYoung's%20Github&fontSize=90&customColorList=)
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30"/>About Me</div>
 <p>주니어 개발자를 꿈꾸는 이호영 입니다</p><hr>
 
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  [![](https://visitcount.itsvg.in/api?id=leehoyoung0713&icon=7&color=6)](https://visitcount.itsvg.in) 
-[![leehoyoung0713's github activity graph](https://github-activity-graph.herokuapp.com/graph?username=leehoyoung0713&theme=monokai)](https://github.com/leehoyoung0713/github-readme-activity-graph)
+[![Hoyoung's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leehoyoung0713&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
