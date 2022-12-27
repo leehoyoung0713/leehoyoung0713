@@ -16,25 +16,25 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=HoYoung%20Lee&fontSize=90&customColorList=)
-# 💻About Me: <hr>
-<p>프론트엔드 주니어 개발자 이호영 입니다</p><hr>
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30"/>About Me</div>
+<p>주니어 개발자를 꿈꾸는 이호영 입니다</p><hr>
 
-# 💻Project Skill
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> jsp-->
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> mybatis-->
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
+![Java](https://img.shields.io/badge/java-1324440180936946338.svg?style=flat&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/jsp-%2300f.svg?style=flat&logo=jsp&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-%2300f.svg?style=flat&logo=MyBatis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=%23F7DF1E)
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> jstl-->
+![jstl](https://img.shields.io/badge/jst1.1.2-0769AD?style=flat&logo=jstl&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 
-# 🎙Project Tool
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30"/>Project Tools</div>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -44,15 +44,14 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white)
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> dbeaver-->
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png)
+![DBeaver](https://img.shields.io/badge/DBeaver22.0.0-2D8CFF?style=flat-square&logo=DBeaver&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> querydsl-->
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="40px" height="40px"/> jpa-->
-# 📊GitHub Stats :
-
-
+![QueryDsl](https://img.shields.io/badge/QueryDsl5.0.0-2D8CFF?style=flat-square&logo=QueryDsl&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA2.7.7-2D8CFF?style=flat-square&logo=JPA&logoColor=white)
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30"/>Github Status</div>
+<!--![Dbeaver](https://user-images.githubusercontent.com/103543659/209591814-0bb5c7e8-9d85-47c1-80ea-4ce051012860.jpg)-->
 
 ![](https://github-readme-stats.vercel.app/api?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  [![](https://visitcount.itsvg.in/api?id=leehoyoung0713&icon=7&color=6)](https://visitcount.itsvg.in) 
+[![leehoyoung0713's github activity graph](https://github-activity-graph.herokuapp.com/graph?username=leehoyoung0713&theme=monokai)](https://github.com/leehoyoung0713/github-readme-activity-graph)
