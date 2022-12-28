@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehoyoung0713&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/></a>
 
+<a href="https://github.com/soyeon207"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
+ 
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
 ![Java](https://img.shields.io/static/v1?label=java&message=v11.0.15&color=orange)
 ![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
