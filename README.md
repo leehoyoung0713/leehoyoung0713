@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=안녕하세요%20신입%20개발자%20이호영입니다👨‍💻&fontSize=40&customColorList=)
-# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30"/>Follow Me</div>
-<p>주니어 개발자를 꿈꾸는 이호영 입니다</p>
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="30" height="30" />Follow Me</div>
 <a href="https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehoyoung0713&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/></a>
 
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
 ![Java](https://img.shields.io/static/v1?label=java&message=v11.0.15&color=orange)
