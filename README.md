@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 ![SpingDataJPA](https://img.shields.io/static/v1?label=SpingDataJPA&message=v2.7.7&color=success)
 ![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white)
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30"/>Github Status</div>
-<!--![Dbeaver](https://user-images.githubusercontent.com/103543659/209591814-0bb5c7e8-9d85-47c1-80ea-4ce051012860.jpg)-->
 
 ![](https://github-readme-stats.vercel.app/api?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
