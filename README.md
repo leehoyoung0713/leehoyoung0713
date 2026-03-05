@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <a href="https://solved.ac/whkakrkr">
  
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
-## <div>
 ![Java](https://img.shields.io/static/v1?label=java&message=v11.0.15&color=orange)
 ![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 ![JSP](https://img.shields.io/static/v1?label=jsp&message=v2.3&color=brightgreen)
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
-## </div>
+
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30"/>Project Tools</div>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
