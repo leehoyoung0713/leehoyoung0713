@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=안녕하세요%20신입%20개발자%20이호영입니다👨‍💻&fontSize=40&customColorList=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=안녕하세요%20웹%20개발자%20이호영입니다👨‍💻&fontSize=40&customColorList=)
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="30" height="30" />Follow Me</div>
 <a href="https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/3ad72e0632ac46eba4e912dac82bc87f"></a>
 <a href="https://github.com/leehoyoung0713"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehoyoung0713&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
