@@ -23,7 +23,6 @@ Here are some ideas to get you started:
  
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="30" height="30"/>Project Skill</div>
 ![Java](https://img.shields.io/static/v1?label=java&message=v11.0.15&color=orange)
-![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 ![JSP](https://img.shields.io/static/v1?label=jsp&message=v2.3&color=brightgreen)
 ![MyBatis](https://img.shields.io/static/v1?label=MyBatis&message=v3.5.10&color=red)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -35,13 +34,16 @@ Here are some ideas to get you started:
 ![jstl](https://img.shields.io/static/v1?label=jstl&message=v1.1.2&color=lightgray)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
+![QueryDSL](https://img.shields.io/static/v1?label=QueryDSL&message=v5.0.0&color=informational)
+![SpingDataJPA](https://img.shields.io/static/v1?label=SpingDataJPA&message=v2.7.7&color=success)
+![Altibase](https://img.shields.io/static/v1?label=altibase&message=v6.5.1.9.3&color=orange)
 
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30"/>Project Tools</div>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white)
+![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
@@ -49,9 +51,11 @@ Here are some ideas to get you started:
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white)
 ![DBeaver](https://img.shields.io/static/v1?label=DBeaver&message=v22.0.0&color=brown)
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
-![QueryDSL](https://img.shields.io/static/v1?label=QueryDSL&message=v5.0.0&color=informational)
-![SpingDataJPA](https://img.shields.io/static/v1?label=SpingDataJPA&message=v2.7.7&color=success)
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
 ![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
+![Jenkins](https://img.shields.io/static/v1?label=jenkins&message=v2.426.3&logo=Jenkins&color=%234b758b)
+![Orange](https://img.shields.io/static/v1?label=orange&message=v6.3.1.0.7&logo=Orange&color=%23ffa756)
+![Orange](https://img.shields.io/static/v1?label=subversion&message=v6.3.1.0.7&logo=Subversion&color=%2380afbf)
 # <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30"/>Github Status</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=leehoyoung0713&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
